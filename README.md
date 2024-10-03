@@ -29,3 +29,37 @@ To run this application locally, follow these steps:
 
    ```bash
    git clone https://github.com/abishaekduresh/City-based-Weather-Application-using-React-JS.git
+
+2. **Navigate into the project directory:**
+   ```bash
+   cd city-based-weather-app
+   
+3. **Install dependencies:**
+   ```bash
+   npm install
+
+4. **Run the application:**
+   ```bash
+   npm run dev
+
+## Running the Application
+
+The application will be running at [http://localhost:5174](http://localhost:5174).
+
+## Usage
+
+- Enter a city name in the search bar and press "Enter" or click the search icon to fetch the weather data.
+- The application displays real-time weather information, including temperature, humidity, wind speed, and location coordinates.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Thanks to [OpenWeather](https://openweathermap.org/api) for providing the weather data API.
+- Special thanks to the React.js community for their invaluable resources and support.
